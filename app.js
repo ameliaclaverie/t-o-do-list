@@ -51,19 +51,21 @@ function deleteItem(e) {
 /*
  PLEASE WRITE A SHORT DESCRIPTION ON WHAT EACH DO:
 
-    1 .createElement():
+    1 .createElement():creates an HTML element
 
-    2 .appendChild():
+    2 .appendChild():code that serves as a storage unit
 
-    3 .setAttribute():
+    3 .setAttribute():gives an element a value or attribute
 
-    4 .getElementById():
+    4 .getElementById():a string used to identify an element 
 
-    5 .removeChild():
+    5 .removeChild(): removes a child node (serves as a storage unit)
 
-    6 .addEventListener():
+    6 .addEventListener():specifies what event to lisen for. to call a function when the event ocurs
 
     7 .innerHTML:
+    \
+    \
     
     8 .textContent:
 */
